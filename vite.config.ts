@@ -5,7 +5,7 @@ import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
 
 export default defineConfig({
   // ← tell Vite your repo is served at https://<user>.github.io/G-Man/
-  base: "/G-Man/",
+  base: "/test/",
 
   plugins: [
     react(),
